@@ -18,6 +18,14 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+The top of the landing page looks as follows:
+
+![application-prompt](./assets/images/top-page.png)
+
+The bottom of the landing page looks as follows:
+
+![application-webpage](./assets/images/bottom-page.png)
+
 ## Installation
 
 No Installation is needed to view and use this webpage.
